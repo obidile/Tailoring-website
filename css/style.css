@@ -1,6 +1,6 @@
 /*--
-Author: W3layouts
-Author URL: http://w3layouts.com
+Author: chnage-ulayouts
+Author URL: http://chnage-ulayouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
@@ -238,11 +238,11 @@ nav.navbar.navbar-default {
     text-decoration:none;
     background-color:#00acee;
 }
-.w3_agile_phone p{
+.chnage-u_agile_phone p{
 	color:#fff;
 	font-weight:600;
 }
-.w3_agile_phone p i{
+.chnage-u_agile_phone p i{
 	padding-right:1em;
 }
 /*-- //header --*/
@@ -412,13 +412,13 @@ nav.navbar.navbar-default {
     width: 300px;
     height: 300px;
 }
-.services,.team,.contact-w3layouts,.agile_testimonials,#last_bottom_agile,#pricing {
+.services,.team,.contact-chnage-ulayouts,.agile_testimonials,#last_bottom_agile,#pricing {
     padding: 5em 0;
 }
 #welcome {
   padding: 5em 0 10em 0;
 }
-.w3l_header {
+.chnage-ul_header {
       font-size: 2.8em;
     color: #262c38;
     letter-spacing: 1px;
@@ -426,20 +426,20 @@ nav.navbar.navbar-default {
     font-weight:600;
     text-align: center;
 }
-.w3l_header:after {
+.chnage-ul_header:after {
     border-top: 2px solid #eb5424;
     display: block;
     width: 81px;
     content: "";
     margin: 8px auto 0;
 }
-.w3l_header span {
+.chnage-ul_header span {
     color:#ff00ff;
 }
 span.agile_says {
     color: #ff00ff;
 }
-.agile_wthree_inner_grids {
+.chnage-6 {
     margin-top: 3em;
 }
 /*-- //about --*/
@@ -465,10 +465,10 @@ span.agile_says {
 .services h3{
 	color:#FFFFFF;
 }
-.agileits-service-info {
+.chnage-5 {
   position:relative;
 }
-.agileits-service-info span {
+.chnage-5 span {
     width: 20%;
     height: 1%;
     background: #fff;
@@ -477,11 +477,11 @@ span.agile_says {
     left: 40%;
     bottom: 66%;
 }
-.w3ls_services_agile-grid{
+.chnage-3{
 	text-align:center;
 	padding:0 10px;
 }
-.agile_w3l_service_icon i.fa.fa-desktop,.agile_w3l_service_icon i.fa.fa-clone,.agile_w3l_service_icon i.fa.fa-navicon,.agile_w3l_service_icon i.fa.fa-pencil-square-o,.agile_w3l_service_icon i.fa{
+.chnage-4 i.fa.fa-desktop,.chnage-4 i.fa.fa-clone,.chnage-4 i.fa.fa-navicon,.chnage-4 i.fa.fa-pencil-square-o,.chnage-4 i.fa{
 	font-size: 2em;
     border-radius: 0%;
     -webkit-border-radius: 0%;
@@ -494,7 +494,7 @@ span.agile_says {
     -moz-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
-.agile_w3l_service_icon {
+.chnage-4 {
     width: 90px;
     height: 90px;
     color: #fff;
@@ -508,7 +508,7 @@ span.agile_says {
     -ms-transition: 0.7s all;
     line-height: 6em;
 }
-.agileits-service-info h5{
+.chnage-5 h5{
        color: #ffb900;
     font-size: 1.2em;
     letter-spacing: 4px;
@@ -519,7 +519,7 @@ span.agile_says {
     -moz-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
-.agileits-service-info p{
+.chnage-5 p{
 	color:#808489;
     font-size: 14px;
     text-transform: capitalize;
@@ -533,45 +533,45 @@ span.agile_says {
 	-moz-transition: 0.5s all;
 	-ms-transition: 0.5s all;
 }
-.w3ls_services_agile-grid:hover .agile_w3l_service_icon,.w3ls_services_agile-grid:hover .agile_w3l_service_icon,.w3ls_services_agile-grid:hover .agile_w3l_service_icon,.w3ls_services_agile-grid:hover .agile_w3l_service_icon{
+.chnage-3:hover .chnage-4,.chnage-3:hover .chnage-4,.chnage-3:hover .chnage-4,.chnage-3:hover .chnage-4{
 	background:#FFFFFF;
 	border:solid 2px #FFFFFF;
     color: #111;
 }
-.w3ls_services_agile-grid:hover .agileits-service-info h5{
+.chnage-3:hover .chnage-5 h5{
 	color:#FFFFFF;
 }
-.w3ls_services_agile-grid:hover .agileits-service-info p{
+.chnage-3:hover .chnage-5 p{
 	color:#FFFFFF;
 }
-.w3ls_services_agile-grid.two{
+.chnage-3.two{
    margin-top:2.5em;
 }
 /*-- //services --*/
 /*-- team --*/
-.w3_agile_team_grids{
+.chnage-u_agile_team_grids{
 	margin:3em 0 0;
 }
-.w3_agile_team_grid h3{
+.chnage-u_agile_team_grid h3{
     font-size: 1.4em;
     color: #212121;
     margin: 1em 0 0.5em;
     font-weight: 600;
     letter-spacing: 1px;
 }
-.w3_agile_team_grid p {
+.chnage-u_agile_team_grid p {
     color: #00acee;
     margin-bottom: 1em;
     font-size: 1em;
 }
-.w3_agile_team_grid ul li{
+.chnage-u_agile_team_grid ul li{
 	display:inline-block;
 	margin-right:1em;
 }
-.w3_agile_team_grid ul li:last-child{
+.chnage-u_agile_team_grid ul li:last-child{
 	margin:0;
 }
-.w3_agile_team_grid {
+.chnage-u_agile_team_grid {
     text-align: center;
 }
 ul.footer_list_icons.team_icons_agile li a {
@@ -587,24 +587,24 @@ ul.footer_list_icons.team_icons_agile li a:hover {
 /*-- //team --*/
 
 /*-- /Gallery --*/
-.agile_gallery_grid {
+.chnage-9 {
         float: left;
         padding:0;
  }
-.agile_gallery_grid_left {
+.chnage-8 {
     padding: 0;
 }
-.agile_gallery_grid img {
+.chnage-9 img {
     width: 100%;
 }
-.agile_gallery_grid img {
+.chnage-9 img {
     width: 100%;
 }
 /*-- //Gallery --*/
 /*-- /pricing --*/
 
 /*-- pricing --*/
-.pricing_inner_w3ls {
+.pricing_inner_chnage-uls {
     margin: 0 auto;
     padding: 0;
     width: 31.3%;
@@ -617,10 +617,10 @@ ul.footer_list_icons.team_icons_agile li a:hover {
 	-moz-transition: 0.5s all;
 	-ms-transition: 0.5s all;
 }
-.pricing_inner_w3ls:hover .pricing-top{
+.pricing_inner_chnage-uls:hover .pricing-top{
      background: #00acee;
 }
-.pricing_inner_w3ls:hover a.popup-with-zoom-anim{
+.pricing_inner_chnage-uls:hover a.popup-with-zoom-anim{
     background: #ff00ff;
 }
 .pricing-top{
@@ -661,7 +661,7 @@ ul.footer_list_icons.team_icons_agile li a:hover {
     text-align: center;
     padding:4em 2em;
 }
-.pricing_inner_w3ls:hover{
+.pricing_inner_chnage-uls:hover{
     transform: scale(1.05);
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);
@@ -1344,7 +1344,7 @@ h4.agile_sub_tittle {
     letter-spacing: 1px;
 }
 /*-- //faq --*/
-.sale-w3ls h6 {
+.sale-chnage-uls h6 {
     font-size: 3em;
     text-align: center;
     letter-spacing: 5px;
@@ -1353,7 +1353,7 @@ h4.agile_sub_tittle {
     padding-top: 2.5em;
     margin-bottom: 0.8em;
 }
-.sale-w3ls {
+.sale-chnage-uls {
     background: url(../images/banner4.jpg)no-repeat 0px 0px;
     background-attachment: fixed;
     background-size: cover;
@@ -1364,41 +1364,41 @@ h4.agile_sub_tittle {
     min-height: 380px;
     text-align: center;
 }
-.w3layouts_mail_grid {
+.chnage-ulayouts_mail_grid {
     padding: 0 1em;
 }
-.w3layouts_mail_grid_left1{
+.chnage-ulayouts_mail_grid_left1{
 	float: left;
     width: 70px;
     height: 70px;
     text-align: center;
 }
-.w3layouts_mail_grid_left1 i{
+.chnage-ulayouts_mail_grid_left1 i{
 	font-size: 1.3em;
     color: #fff;
     line-height: 3.2em;
 }
-.w3layouts_mail_grid_left2{
+.chnage-ulayouts_mail_grid_left2{
 	float:right;
 	width:70%;
 	    text-align: left;
 }
-.w3layouts_mail_grid_left2 h3{
+.chnage-ulayouts_mail_grid_left2 h3{
     font-size: 0.9em;
     color: #fff;
     margin: 0em 0 0.5em;
     letter-spacing: 1px;
     font-weight: 600;
 }
-.w3layouts_mail_grid_left2 a{
+.chnage-ulayouts_mail_grid_left2 a{
 	text-decoration:none;
 	color: #545454;
 	font-size:14px;
 }
-.w3layouts_mail_grid_left2 a:hover{
+.chnage-ulayouts_mail_grid_left2 a:hover{
 	color:#212121;
 }
-.w3layouts_mail_grid_left2 p{
+.chnage-ulayouts_mail_grid_left2 p{
     color: #02678e;
     font-size: 0.9em;
     line-height: 1.8em;
@@ -1445,7 +1445,7 @@ h4.agile_sub_tittle {
 .hvr-radial-out:hover, .hvr-radial-out:focus, .hvr-radial-out:active {
   color: white;
 }
-.hvr-radial-out:hover:before, .hvr-radial-out:focus:before, .hvr-radial-out:active:before,.w3layouts_mail_grid_left:hover .hvr-radial-out:before{
+.hvr-radial-out:hover:before, .hvr-radial-out:focus:before, .hvr-radial-out:active:before,.chnage-ulayouts_mail_grid_left:hover .hvr-radial-out:before{
   -webkit-transform: scale(2);
   transform: scale(2);
 }
@@ -1461,7 +1461,7 @@ h4.agile_sub_tittle {
 .contact p.sub {
     font-size: 15px;
 }
-.contact-w3layouts span {
+.contact-chnage-ulayouts span {
     color: #ff00ff;
     margin-right: 8px;
     text-align: center;
@@ -1496,7 +1496,7 @@ p.sub i,p.add i {
     text-align: center;
     color: #fff;
 }
-.contact-w3layouts h3 {
+.contact-chnage-ulayouts h3 {
     margin-bottom: 0.5em!important;
 }
 .mail-grid1-form input[type="text"], .mail-grid1-form input[type="email"], .mail-grid1-form textarea {
@@ -1552,20 +1552,20 @@ p.sub i,p.add i {
     -ms-transition: 0.5s all;
     -webkit-appearance: none;
 }
-p.para-agileits-w3layouts {
+p.chnage-1 {
     font-size: 14px;
     line-height: 2em;
     margin-top: 1em;
     color: #717171;
     letter-spacing: 1px;
 }
-.agileits-w3layouts-map iframe {
+.agileits-chnage-ulayouts-map iframe {
     border: none;
     width: 100%;
     height: 400px;
 }
 /*--footer--*/
-.footer-top_agile_w3l {
+.footer-top_agile_chnage-ul {
     /* padding: 4em 0 3em; */
     background: #191d20;
 }
@@ -1618,21 +1618,21 @@ ul.footer-list li{
     padding: 0;
     margin: 0;
 }
-ul.w3agile_footer_grid_list li {
+ul.chnage-uagile_footer_grid_list li {
     list-style-type: none;
     color: #bbbbbb;
     line-height: 1.8em;
     font-size: 1em;
 }
-ul.w3agile_footer_grid_list li a {
+ul.chnage-uagile_footer_grid_list li a {
     color: #ff9900;
     text-decoration: none;
 }
-ul.w3agile_footer_grid_list li span {
+ul.chnage-uagile_footer_grid_list li span {
     display: block;
     margin: 1em 0 0;
 }
-ul.w3agile_footer_grid_list i.fa.fa-twitter {
+ul.chnage-uagile_footer_grid_list i.fa.fa-twitter {
     margin-right: 1em;
 }
 .footer-grid_wthree_info input[type="email"],.footer-grid_wthree_info input[type="text"]{
@@ -1744,7 +1744,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
 	.header-top_agileits {
         width: 75%;
     }
-    .services, .team, .contact-w3layouts, .agile_testimonials, #last_bottom_agile, #pricing {
+    .services, .team, .contact-chnage-ulayouts, .agile_testimonials, #last_bottom_agile, #pricing {
         padding: 4em 0;
     }
     #welcome {
@@ -1777,16 +1777,16 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         bottom: 20%;
         left: 8%;
     }
-    .w3_agile_team_grid h3 {
+    .chnage-u_agile_team_grid h3 {
       font-size: 1.2em;
     }
-    .w3l_header {
+    .chnage-ul_header {
       font-size: 2.6em;
     }
     #welcome {
         padding: 4em 0 4em 0;
     }
-    .sale-w3ls h6 {
+    .sale-chnage-uls h6 {
      font-size: 2.8em;
     }
     .testmonial_agile_info {
@@ -1805,20 +1805,20 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         bottom: 20%;
         left: 8%;
     }
-    .w3l_header {
+    .chnage-ul_header {
         font-size: 2.4em;
     }
-    .w3_agile_team_grids,.agile_wthree_inner_grids {
+    .chnage-u_agile_team_grids,.chnage-6 {
         margin: 2.5em 0 0;
     }
-    .agileits-service-info h5 {
+    .chnage-5 h5 {
         font-size: 1.1em;
         letter-spacing: 2px;
     }
-    .sale-w3ls {
+    .sale-chnage-uls {
       min-height: 360px;
     }
-    .sale-w3ls h6 {
+    .sale-chnage-uls h6 {
       font-size: 2.6em;
     }
     div#small-dialog {
@@ -1841,11 +1841,11 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         width: 300px;
         height: 300px;
     }
-    .w3layouts_mail_grid_left {
+    .chnage-ulayouts_mail_grid_left {
         width: 50%;
         margin-bottom: 1em;
     }
-    .w3layouts_mail_grid_left1 i {
+    .chnage-ulayouts_mail_grid_left1 i {
         font-size: 1.3em;
         line-height: 3.5em;
     }
@@ -1883,35 +1883,35 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         width: 300px;
         height: 300px;
     }
-    .w3ls_services_agile-grid.two {
+    .chnage-3.two {
         margin-top: 0;
     }
-    .w3ls_services_agile-grid {
+    .chnage-3 {
         padding: 0 10px;
         margin-bottom: 2em;
     }
-    .w3_agile_team_grid {
+    .chnage-u_agile_team_grid {
         text-align: center;
         float: left;
     }
-    .agileits-service-info span {
+    .chnage-5 span {
         width: 20%;
         height: 1%;
         left: 40%;
         bottom: 57%;
     }
-    .agile_port_w3ls_info {
+    .chnage-7 {
         margin: 0 10%;
     }
-    .menu_w3ls_agile_top_section {
+    .menu_chnage-uls_agile_top_section {
         margin-bottom: 3em;
     }
-    .pricing_inner_w3ls {
+    .pricing_inner_chnage-uls {
         width: 47.3%;
         margin: 0 0.5%;
         float: left;
     }
-    .pricing_inner_w3ls:nth-child(3) {
+    .pricing_inner_chnage-uls:nth-child(3) {
         margin:0;
         margin-top:1em;
      }
@@ -1926,7 +1926,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         font-size: 1.6em;
         margin: 0 0 0.5em 0;
     }
-    .sale-w3ls h6 {
+    .sale-chnage-uls h6 {
         font-size: 2.4em;
         line-height: 1.5em;
     }
@@ -1946,22 +1946,22 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     .mail-grid1-form {
         margin-top: 2em;
     }
-    .w3layouts_mail_grid_left {
+    .chnage-ulayouts_mail_grid_left {
         width: 50%;
         margin-bottom: 1em;
         float: left;
     }
 }
 @media(max-width:900px){
-    .agileits-service-info h5 {
+    .chnage-5 h5 {
         font-size: 1.1em;
         letter-spacing: 2px;
         margin: 2em 0;
     }
-     .agileits-service-info p {
+     .chnage-5 p {
        margin-top: 1.5em;
     }
-    .agileits-service-info span {
+    .chnage-5 span {
         width: 20%;
         height: 1%;
         left: 40%;
@@ -1971,7 +1971,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         bottom: 20%;
         left: 13%;
     }
-    .agile_port_w3ls_info {
+    .chnage-7 {
         margin: 0 6%;
     }
     div#small-dialog {
@@ -1989,7 +1989,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         bottom: 20%;
         left: 9%;
     }
-    .agile_port_w3ls_info {
+    .chnage-7 {
         margin: 0 1.2%;
     }
     .coupons {
@@ -2003,10 +2003,10 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
 	.header-top_agileits {
         width: 100%;
     }
-    .agile_port_w3ls_info {
+    .chnage-7 {
         margin: 0 0%;
     }
-    .agile_gallery_grid {
+    .chnage-9 {
         float: left;
         padding: 0;
         width: 50%;
@@ -2029,7 +2029,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         margin-bottom: 0.5em;
         line-height: 1.5em;
     }
-    .w3l_header {
+    .chnage-ul_header {
         font-size: 2.2em;
     }
 }
@@ -2121,13 +2121,13 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         bottom: 16%;
         left: 7%;
     }
-   .team, .contact-w3layouts, .agile_testimonials, #last_bottom_agile, #pricing {
+   .team, .contact-chnage-ulayouts, .agile_testimonials, #last_bottom_agile, #pricing {
         padding:3.5em 0;
     }
     .services {
           padding: 3.5em 0 2em 0;
     }
-    .agileits-service-info h5 {
+    .chnage-5 h5 {
         font-size: 1.1em;
         letter-spacing: 2px;
         margin: 2em 0 3.3em 0;
@@ -2142,7 +2142,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     #welcome {
         padding: 3.5em 0 20em 0;
     }
-    .agileits-w3layouts-map iframe {
+    .agileits-chnage-ulayouts-map iframe {
         height: 350px;
     }
 }
@@ -2161,12 +2161,12 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     
 }
 @media(max-width:667px){
-	.w3_agile_team_grid {
+	.chnage-u_agile_team_grid {
         text-align: center;
         float: left;
         width: 50%;
     }
-     .sale-w3ls h6 {
+     .sale-chnage-uls h6 {
         font-size: 2.2em;
         line-height: 1.5em;
         letter-spacing: 4px;
@@ -2184,7 +2184,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     }
 }
 @media(max-width:640px){
-	.agile_gallery_grid {
+	.chnage-9 {
         float: left;
         padding: 0;
         width: 49%;
@@ -2197,7 +2197,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     #welcome {
         padding: 3.5em 0 18em 0;
     }
-    .footer-top_agile_w3l {
+    .footer-top_agile_chnage-ul {
        padding: 3em 0 3em;
     }
     .wthree_copy_right p {
@@ -2207,10 +2207,10 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         letter-spacing: 2px;
         line-height: 1.9em;
     }
-    .sale-w3ls {
+    .sale-chnage-uls {
         min-height: 310px;
     }
-    .sale-w3ls h6 {
+    .sale-chnage-uls h6 {
         font-size: 2em;
         line-height: 1.5em;
         letter-spacing: 4px;
@@ -2224,7 +2224,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     }
  }
 @media(max-width:600px){
-	.w3l_header {
+	.chnage-ul_header {
         font-size: 2em;
     }
     #welcome h2 {
@@ -2233,7 +2233,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         line-height: 1.5em;
         letter-spacing: 1px;
     }
-    .agile_gallery_grid {
+    .chnage-9 {
         float: left;
         padding: 0;
         width: 44%;
@@ -2245,7 +2245,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         font-weight: 300;
         letter-spacing: 3px;
     }
-    .agile_gallery_grid {
+    .chnage-9 {
         float: left;
         padding: 0;
         width: 100%;
@@ -2253,12 +2253,12 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     #welcome {
         padding: 3em 0 16em 0;
     }
-    .w3layouts_mail_grid_left {
+    .chnage-ulayouts_mail_grid_left {
         width: 100%;
         margin-bottom: 1em;
         float: left;
     }
-    .pricing_inner_w3ls,.pricing_inner_w3ls:nth-child(3) {
+    .pricing_inner_chnage-uls,.pricing_inner_chnage-uls:nth-child(3) {
         width: 82%;
         margin: 2% 8%;
         float: left;
@@ -2291,19 +2291,19 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     #welcome {
         padding: 2em 0 14em 0;
     }
-    .sale-w3ls h6 {
+    .sale-chnage-uls h6 {
         font-size: 1.8em;
         line-height: 1.5em;
         letter-spacing: 4px;
         padding-top: 2.6em;
     }
-    .agileits-w3layouts-map iframe {
+    .agileits-chnage-ulayouts-map iframe {
         height: 250px;
     }
-    .team, .contact-w3layouts, .agile_testimonials, #last_bottom_agile, #pricing {
+    .team, .contact-chnage-ulayouts, .agile_testimonials, #last_bottom_agile, #pricing {
         padding: 3em 0;
     }
-    .w3_agile_team_grids, .agile_wthree_inner_grids {
+    .chnage-u_agile_team_grids, .chnage-6 {
         margin: 1.5em 0 0;
     }
     div#small-dialog {
@@ -2312,13 +2312,13 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     }
 }
 @media(max-width:440px){
-    .w3l_header {
+    .chnage-ul_header {
         font-size: 1.8em;
     }
-    .w3_agile_team_grid h3 {
+    .chnage-u_agile_team_grid h3 {
         font-size: 1.1em;
     }
-    .w3_agile_team_grid p {
+    .chnage-u_agile_team_grid p {
         margin-bottom: 1em;
         font-size: 0.9em;
     }
@@ -2341,7 +2341,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     .services {
         padding: 2.5em 0 1em 0;
     }
-    .w3_agile_team_grid h3 {
+    .chnage-u_agile_team_grid h3 {
         font-size: 1em;
     }
     h4.agile_sub_tittle {
@@ -2364,7 +2364,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         font-size: 1.3em;
         margin: 0 0 0.5em 0;
     }
-    .footer-top_agile_w3l {
+    .footer-top_agile_chnage-ul {
         padding: 2em 0 2em;
     }
     .coupons {
@@ -2404,19 +2404,19 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         line-height: 1.5em;
         letter-spacing: 1px;
     }
-    .w3l_header {
+    .chnage-ul_header {
         font-size: 1.6em;
     }
     .about h4 {
         font-size: 1.2em;
     }
-    .sale-w3ls h6 {
+    .sale-chnage-uls h6 {
         font-size: 1.6em;
         line-height: 1.5em;
         letter-spacing: 4px;
         padding-top: 2.6em;
     }
-    .sale-w3ls {
+    .sale-chnage-uls {
         min-height: 273px;
     }
     .pricing-top h3 {
@@ -2453,7 +2453,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     #welcome {
         padding: 2em 0 13.5em 0;
     }
-    .agileits-service-info h5 {
+    .chnage-5 h5 {
         font-size: 1em;
         letter-spacing: 1px;
         margin: 2em 0 3.3em 0;
@@ -2461,7 +2461,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     
 }
 @media(max-width:375px){
-	.agileits-service-info h5 {
+	.chnage-5 h5 {
         font-size: 1em;
         letter-spacing: 1px;
         margin: 2em 0 3.3em 0;
@@ -2479,12 +2479,12 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         letter-spacing: 7px;
         font-size: 0.9em;
     }
-    .w3_agile_team_grid {
+    .chnage-u_agile_team_grid {
         float: left;
         width: 100%;
         margin-bottom:0.5em;
     }
-    .w3l_header {
+    .chnage-ul_header {
         font-size: 1.5em;
     }
     .agileits-logo h1 a {
@@ -2518,16 +2518,16 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
     #welcome {
         padding: 2em 0 11em 0;
     }
-    .menu_w3ls_agile_top_section,.sub-slider,.about_agileinfo {
+    .menu_chnage-uls_agile_top_section,.sub-slider,.about_agileinfo {
         padding: 0;
     }
-    .sale-w3ls h6 {
+    .sale-chnage-uls h6 {
         font-size: 1.3em;
         line-height: 1.5em;
         letter-spacing: 4px;
         padding-top: 2em;
     }
-    .sale-w3ls {
+    .sale-chnage-uls {
         min-height: 206px;
     }
     .payment-sendbtns input[type="reset"] {
@@ -2539,7 +2539,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
         line-height: 1.5em;
         letter-spacing: 1px;
     }
-    .w3l_header {
+    .chnage-ul_header {
         font-size: 1.4em;
         line-height: 1.4em;
     }
